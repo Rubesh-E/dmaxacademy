@@ -1,0 +1,208 @@
+.Top-Title{
+    
+    font-size: 3rem;
+    font-weight:700;
+
+}
+.navbar{
+    float: right;
+    font-family:'poppins';
+    border:1px solid black;
+    padding: 0%;
+    margin: auto;
+ }
+body{
+        padding: 0;
+        margin: 0;
+        overflow-x: hidden;
+}
+main,.sec{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+img{
+    border-radius:10rem;
+}
+.overview-title{
+    font-size: 4rem;
+    color: #070606;
+    font-family: 'Poppins';
+}
+.overview-body{
+    font-size: 1.5rem;
+    color: #050505;
+    font-weight: 200;
+}
+.con{
+    display: flex;
+    align-items: center;
+    padding: 15px;
+}
+section,main{
+    width: 100%;
+    height: 100vh;
+    
+}
+.Benefits-content{
+    border-radius: 10px; 
+    border-width:2rem solid black;
+}
+.Benefits-content:hover{
+    border-color: #070707;
+    transition:5s;
+    transition-delay:10ms;
+    transform: rotateY(360deg);
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzCyfkx9BDWqrwmNs_flP_JKTaND6cNquZuA&usqp=CAU);
+    color: #ffffff;
+    box-shadow: 10px 10px 4px rgb(62, 62, 62);
+}
+
+.Benefits-content p,.Benefits-content i{
+    font-size: 2rem;
+}
+.Benefits-content1{
+    border-radius: 10px; 
+    border-width:2rem solid black;
+}
+.Benefits-content1 p,.Benefits-content1 i{
+    font-size: 2rem;
+}
+.Benefits-content1:hover{
+    border-color: #070707;
+    transition:5s;
+    transition-delay:10ms;
+    transform: rotateY(360deg);
+    background-image:url(https://www.abacusmaster.com/blog/images/1112/Vedic-Math.jpg);
+    color: #ffffff;
+    background-size: contain;
+    box-shadow: 10px 10px 4px rgb(62, 62, 62);
+}
+.Benefits-content2{
+    border-radius: 10px; 
+    border-width:2rem solid black;
+}
+.Benefits-content2 p,.Benefits-content2 i{
+    font-size: 2rem;
+}
+.Benefits-content2:hover{
+    border-color: #070707;
+    transition:5s;
+    transition-delay:10ms;
+    transform: rotateY(360deg);
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ03OTUECJ3HfbhQcOTecRBotUh3mZSF4HrX1yvpm_hQpbrM5k3eX87Qbyb3wuyuSe2ypQ&usqp=CAU);
+    background-size: contain;
+    color: #ffffff;
+    box-shadow: 10px 10px 4px rgb(62, 62, 62);
+}
+.Benefits-content3{
+    border-radius: 10px; 
+    border-width:2rem solid black;
+}
+.Benefits-content3 p,.Benefits-content3 i{
+    font-size: 2rem;
+}
+.Benefits-content3:hover{
+    border-color: #070707;
+    transition:5s;
+    transition-delay:10ms;
+    transform: rotateY(360deg);
+    background-image:url(https://thumbs.dreamstime.com/b/learn-hindi-simple-sign-black-background-great-teachers-schools-students-language-136545873.jpg);
+    background-size: contain;
+    color: #000000;
+    box-shadow: 10px 10px 4px rgb(62, 62, 62);
+}
+.services,h1{
+     font-size: 4rem;
+    color: #070606;
+    font-family: 'Poppins';
+
+}
+.contact-block{
+    color: #000000;
+    background-color: rgba(255, 255, 255, 0.5); 
+    padding: 10%;
+
+}
+footer{
+    background-color: #ffffff;
+    color: #000000;
+}
+.follow-icon{ 
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.coli{
+    background-color: #fff;
+    border-radius: 5px;
+    text-align: center;
+    margin: 1px 2px;
+    padding: 4px 4px;
+}
+.heading{
+   text-align: center;
+   padding:auto;
+   padding-top:10px;
+   background-color: #1b1919;
+   color: #ffffff;
+}
+footer{
+    background-color: #1b1919;
+    color: #ffffff;
+}
+@media screen and (max-width:900px) {
+    .Top-Title{
+        font-size: 1.5rem;
+    }
+    .Top-content{
+        font-size: 0.8rem;
+    }
+    .overview-title{
+        font-size: 2rem;
+        color: #0a0a0a;
+        font-weight: 700;
+        -webkit-text-fill-color: rgb(1, 1, 1);
+        -webkit-text-stroke-width: 1px;
+        -webkit-text-stroke-color: black;
+        font-family: 'Poppins';
+        
+    }
+    .overview-body{
+        font-size: 0.8rem;
+        color: #070707;
+        font-weight: 200;
+        font-family: 'Poppins';
+    }
+    .Benefits-title{
+        font-size: 1.5rem;
+    }
+    .Benefits-content p,.Benefits-content i{
+        font-size: 1rem;
+    }
+    .Benefits-content1 p,.Benefits-content1 i{
+        font-size: 1rem;
+    }
+    .Benefits-content2 p,.Benefits-content2 i{
+        font-size: 1rem;
+    }
+    .Benefits-content3 p,.Benefits-content3 i{
+        font-size: 1rem;
+    }
+    .main-img{
+        width: 80%;
+        height: 80%;
+    }
+    
+    .Qualification-title{
+        font-size: 1rem;
+    }
+    .navbar{
+        max-width: fit-content;
+        border:1px solid white;
+    }
+}
+
+    
