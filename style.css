@@ -196,18 +196,22 @@ footer{
         font-size: 1rem;
     }
     .Benefits-content:hover{
+        background-color: #050505;
         background-size: cover;
         object-fit: cover;
     }
     .Benefits-content1:hover{
+        background-color: #050505;
         background-size: cover;
         object-fit: cover;
     }
     .Benefits-content2:hover{
+        background-color: #050505;
         background-size: cover;
         object-fit: cover;
     }
     .Benefits-content3:hover{
+        background-color: #050505;
         background-size: cover;
     }
     .main-img{
