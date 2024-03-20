@@ -195,6 +195,18 @@ footer{
     .Benefits-content3 p,.Benefits-content3 i{
         font-size: 1rem;
     }
+    .Benefits-content:hover{
+        background-size: cover;
+    }
+    .Benefits-content1:hover{
+        background-size: cover;
+    }
+    .Benefits-content2:hover{
+        background-size: cover;
+    }
+    .Benefits-content3:hover{
+        background-size: cover;
+    }
     .main-img{
         width: 80%;
         height: 80%;
