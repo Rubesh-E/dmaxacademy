@@ -56,6 +56,7 @@ section,main{
     transform: rotateY(360deg);
     background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzCyfkx9BDWqrwmNs_flP_JKTaND6cNquZuA&usqp=CAU);
     color: #ffffff;
+    object-fit: cover;
     box-shadow: 10px 10px 4px rgb(62, 62, 62);
 }
 
@@ -77,6 +78,7 @@ section,main{
     background-image:url(https://www.abacusmaster.com/blog/images/1112/Vedic-Math.jpg);
     color: #ffffff;
     background-size: contain;
+    object-fit: cover;
     box-shadow: 10px 10px 4px rgb(62, 62, 62);
 }
 .Benefits-content2{
@@ -93,6 +95,7 @@ section,main{
     transform: rotateY(360deg);
     background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ03OTUECJ3HfbhQcOTecRBotUh3mZSF4HrX1yvpm_hQpbrM5k3eX87Qbyb3wuyuSe2ypQ&usqp=CAU);
     background-size: contain;
+    object-fit: cover;
     color: #ffffff;
     box-shadow: 10px 10px 4px rgb(62, 62, 62);
 }
@@ -110,6 +113,7 @@ section,main{
     transform: rotateY(360deg);
     background-image:url(https://thumbs.dreamstime.com/b/learn-hindi-simple-sign-black-background-great-teachers-schools-students-language-136545873.jpg);
     background-size: contain;
+    object-fit: cover;
     color: #000000;
     box-shadow: 10px 10px 4px rgb(62, 62, 62);
 }
@@ -153,7 +157,7 @@ footer{
     background-color: #1b1919;
     color: #ffffff;
 }
-@media screen and (max-width:900px) {
+@media screen and (min-width:400px) {
     .Top-Title{
         font-size: 1.5rem;
     }
@@ -178,18 +182,23 @@ footer{
     }
     .Benefits-title{
         font-size: 1.5rem;
+
     }
     .Benefits-content p,.Benefits-content i{
         font-size: 1rem;
+        background-size: contain;
     }
     .Benefits-content1 p,.Benefits-content1 i{
         font-size: 1rem;
+        background-size: contain;
     }
     .Benefits-content2 p,.Benefits-content2 i{
         font-size: 1rem;
+        background-size: contain;
     }
     .Benefits-content3 p,.Benefits-content3 i{
         font-size: 1rem;
+        background-size: contain;
     }
     .main-img{
         width: 80%;
