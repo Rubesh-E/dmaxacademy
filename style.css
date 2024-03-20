@@ -182,27 +182,30 @@ footer{
     }
     .Benefits-title{
         font-size: 1.5rem;
-      
     }
     .Benefits-content p,.Benefits-content i{
         font-size: 1rem;
-        background-repeat: no-repeat;
-        background-size: 400cqmin;
     }
     .Benefits-content1 p,.Benefits-content1 i{
         font-size: 1rem;
-        background-repeat: no-repeat;
-        background-size: 400cqmin;
     }
     .Benefits-content2 p,.Benefits-content2 i{
         font-size: 1rem;
-        background-repeat: no-repeat;
-        background-size: 400cqmin;
     }
     .Benefits-content3 p,.Benefits-content3 i{
         font-size: 1rem;
-        background-repeat: no-repeat;
-        background-size: 400cqmin;
+    }
+    .Benefits-content{
+        background-image: none;
+    }
+    .Benefits-content1{
+        background-image: none;
+    }
+    .Benefits-content2{
+        background-image: none;
+    }
+    .Benefits-content3{
+        background-image: none;
     }
     .main-img{
         width: 80%;
