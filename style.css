@@ -78,6 +78,7 @@ section,main{
     color: #ffffff;
     background-size: contain;
     box-shadow: 10px 10px 4px rgb(62, 62, 62);
+    min-width: none;
 }
 .Benefits-content2{
     border-radius: 10px; 
@@ -95,6 +96,7 @@ section,main{
     background-size: contain;
     color: #ffffff;
     box-shadow: 10px 10px 4px rgb(62, 62, 62);
+    min-width: none;
 }
 .Benefits-content3{
     border-radius: 10px; 
@@ -113,6 +115,7 @@ section,main{
     object-fit: cover;
     color: #000000;
     box-shadow: 10px 10px 4px rgb(62, 62, 62);
+    min-width: none;
 }
 .services,h1{
      font-size: 4rem;
