@@ -197,15 +197,19 @@ footer{
     }
     .Benefits-content:hover{
         background-size: contain;
+        object-fit: contain;
     }
     .Benefits-content1:hover{
         background-size: contain;
+        object-fit: contain;
     }
     .Benefits-content2:hover{
         background-size: contain;
+        object-fit: contain;
     }
     .Benefits-content3:hover{
         background-size: contain;
+        object-fit: contain;
     }
     .main-img{
         width: 80%;
