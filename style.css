@@ -185,27 +185,19 @@ footer{
     }
     .Benefits-content p,.Benefits-content i{
         font-size: 1rem;
+        background-repeat: initial;
     }
     .Benefits-content1 p,.Benefits-content1 i{
         font-size: 1rem;
+        background-repeat: initial;
     }
     .Benefits-content2 p,.Benefits-content2 i{
         font-size: 1rem;
+        background-repeat: initial;
     }
     .Benefits-content3 p,.Benefits-content3 i{
         font-size: 1rem;
-    }
-    .Benefits-content{
-        background-image: none;
-    }
-    .Benefits-content1{
-        background-image: none;
-    }
-    .Benefits-content2{
-        background-image: none;
-    }
-    .Benefits-content3{
-        background-image: none;
+        background-repeat: initial;
     }
     .main-img{
         width: 80%;
