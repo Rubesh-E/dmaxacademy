@@ -157,7 +157,7 @@ footer{
     background-color: #1b1919;
     color: #ffffff;
 }
-@media screen and (min-width:400px) {
+@media screen and (max-width:900px) {
     .Top-Title{
         font-size: 1.5rem;
     }
@@ -175,30 +175,25 @@ footer{
         
     }
     .overview-body{
-        font-size:0.01rem;
+        font-size: 0.8rem;
         color: #070707;
         font-weight: 200;
         font-family: 'Poppins';
     }
     .Benefits-title{
-        font-size: 0.01rem;
-
+        font-size: 1.5rem;
     }
     .Benefits-content p,.Benefits-content i{
-        font-size: 0.01rem;
-        background-size:cover;
+        font-size: 1rem;
     }
     .Benefits-content1 p,.Benefits-content1 i{
-        font-size: 0.01rem;
-        background-size:cover;
+        font-size: 1rem;
     }
     .Benefits-content2 p,.Benefits-content2 i{
-        font-size: 0.01rem;
-        background-size: cover;
+        font-size: 1rem;
     }
     .Benefits-content3 p,.Benefits-content3 i{
-        font-size: 0.01rem;
-        background-size:cover;
+        font-size: 1rem;
     }
     .main-img{
         width: 80%;
@@ -206,7 +201,7 @@ footer{
     }
     
     .Qualification-title{
-        font-size: 0.01rem;
+        font-size: 1rem;
     }
     .navbar{
         max-width: fit-content;
