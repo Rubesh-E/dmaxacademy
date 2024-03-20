@@ -157,7 +157,7 @@ footer{
     background-color: #1b1919;
     color: #ffffff;
 }
-@media screen and (max-width:1450px) {
+@media screen and (min-width:400px) {
     .Top-Title{
         font-size: 1.5rem;
     }
@@ -185,19 +185,19 @@ footer{
     }
     .Benefits-content p,.Benefits-content i{
         font-size: 1rem;
-        background-repeat: initial;
+        background-repeat:no-repeat;
     }
     .Benefits-content1 p,.Benefits-content1 i{
         font-size: 1rem;
-        background-repeat: initial;
+        background-repeat: no-repeat;
     }
     .Benefits-content2 p,.Benefits-content2 i{
         font-size: 1rem;
-        background-repeat: initial;
+        background-repeat: no-repeat;
     }
     .Benefits-content3 p,.Benefits-content3 i{
         font-size: 1rem;
-        background-repeat: initial;
+        background-repeat: no-repeat;
     }
     .main-img{
         width: 80%;
