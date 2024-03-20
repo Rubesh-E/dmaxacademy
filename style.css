@@ -76,7 +76,7 @@ section,main{
     transform: rotateY(360deg);
     background-image:url(https://www.abacusmaster.com/blog/images/1112/Vedic-Math.jpg);
     color: #ffffff;
-    background-size: cover;
+    background-size: contain;
     box-shadow: 10px 10px 4px rgb(62, 62, 62);
     min-width: none;
 }
@@ -93,7 +93,7 @@ section,main{
     transition-delay:10ms;
     transform: rotateY(360deg);
     background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ03OTUECJ3HfbhQcOTecRBotUh3mZSF4HrX1yvpm_hQpbrM5k3eX87Qbyb3wuyuSe2ypQ&usqp=CAU);
-    background-size: cover;
+    background-size: contain;
     color: #ffffff;
     box-shadow: 10px 10px 4px rgb(62, 62, 62);
     min-width: none;
@@ -111,8 +111,8 @@ section,main{
     transition-delay:10ms;
     transform: rotateY(360deg);
     background-image:url(https://thumbs.dreamstime.com/b/learn-hindi-simple-sign-black-background-great-teachers-schools-students-language-136545873.jpg);
-    background-size: cover;
-    object-fit: cover;
+    background-size: contain;
+    object-fit: contain;
     color: #000000;
     box-shadow: 10px 10px 4px rgb(62, 62, 62);
     min-width: none;
@@ -197,22 +197,22 @@ footer{
     }
     .Benefits-content:hover{
         background-color: #050505;
-        background-size: cover;
+        background-size: contain;
         object-fit:contain;
     }
     .Benefits-content1:hover{
         background-color: #050505;
-        background-size: cover;
+        background-size: contain;
         object-fit: contain;
     }
     .Benefits-content2:hover{
         background-color: #050505;
-        background-size: cover;
+        background-size: contain;
         object-fit:contain;
     }
     .Benefits-content3:hover{
         background-color: #050505;
-        background-size: cover;
+        background-size: contain;
         object-fit: contain;
     }
     .main-img{
