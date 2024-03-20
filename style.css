@@ -112,7 +112,7 @@ section,main{
     transform: rotateY(360deg);
     background-image:url(https://thumbs.dreamstime.com/b/learn-hindi-simple-sign-black-background-great-teachers-schools-students-language-136545873.jpg);
     background-size: contain;
-    object-fit: cover;
+    object-fit: contain;
     color: #000000;
     box-shadow: 10px 10px 4px rgb(62, 62, 62);
     min-width: none;
@@ -196,16 +196,16 @@ footer{
         font-size: 1rem;
     }
     .Benefits-content:hover{
-        background-size: cover;
+        background-size: contain;
     }
     .Benefits-content1:hover{
-        background-size: cover;
+        background-size: contain;
     }
     .Benefits-content2:hover{
-        background-size: cover;
+        background-size: contain;
     }
     .Benefits-content3:hover{
-        background-size: cover;
+        background-size: contain;
     }
     .main-img{
         width: 80%;
