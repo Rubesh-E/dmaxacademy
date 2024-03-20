@@ -175,29 +175,29 @@ footer{
         
     }
     .overview-body{
-        font-size: 0.8rem;
+        font-size:0.01rem;
         color: #070707;
         font-weight: 200;
         font-family: 'Poppins';
     }
     .Benefits-title{
-        font-size: 1.5rem;
+        font-size: 0.01rem;
 
     }
     .Benefits-content p,.Benefits-content i{
-        font-size: 1rem;
+        font-size: 0.01rem;
         background-size:cover;
     }
     .Benefits-content1 p,.Benefits-content1 i{
-        font-size: 1rem;
+        font-size: 0.01rem;
         background-size:cover;
     }
     .Benefits-content2 p,.Benefits-content2 i{
-        font-size: 1rem;
+        font-size: 0.01rem;
         background-size: cover;
     }
     .Benefits-content3 p,.Benefits-content3 i{
-        font-size: 1rem;
+        font-size: 0.01rem;
         background-size:cover;
     }
     .main-img{
@@ -206,7 +206,7 @@ footer{
     }
     
     .Qualification-title{
-        font-size: 1rem;
+        font-size: 0.01rem;
     }
     .navbar{
         max-width: fit-content;
