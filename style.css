@@ -4,17 +4,22 @@
     font-weight:700;
 
 }
+.Top-content{
+    font-size :2rem;
+    color: dimgray;
+}
 .navbar{
     float: right;
     font-family:'poppins';
-    border:1px solid black;
-    padding: 0%;
-    margin: auto;
- }
+}
 body{
         padding: 0;
         margin: 0;
         overflow-x: hidden;
+}
+#button:hover{
+    letter-spacing:1px;
+    transition:200ms;
 }
 main,.sec{
     justify-content: center;
@@ -33,7 +38,7 @@ img{
 .overview-body{
     font-size: 1.5rem;
     color: #050505;
-    font-weight: 200;
+    font-weight: 200; 
 }
 .con{
     display: flex;
@@ -42,8 +47,7 @@ img{
 }
 section,main{
     width: 100%;
-    height: 100vh;
-    
+    height: 100vh;  
 }
 .Benefits-content{
     border-radius: 10px; 
@@ -127,6 +131,7 @@ section,main{
     color: #000000;
     background-color: rgba(255, 255, 255, 0.5); 
     padding: 10%;
+    left: 400px;
 
 }
 footer{
